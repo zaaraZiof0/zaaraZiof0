@@ -1,4 +1,4 @@
-# Terukula Sai
+# Zaara Ziof
 
 ![Banner](./path-to-your-uploaded-image1.png)
 
@@ -35,15 +35,15 @@
 
 ### 📫 Contact:
 
-- **Email:** codesai127.0.0.1@gmail.com
+- **Email:** sithum.shihara@gmail.com
 - **Phone:** +91 9987886552
-- **Instagram:** [sai_127.0.0.1](https://instagram.com/sai_127.0.0.1)
+- **Instagram:** [zaara_ziof](https://instagram.com/zaara_ziof)
 
 ---
 
 ### 📈 GitHub Stats:
 
-![Sai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Zaara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
