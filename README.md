@@ -75,7 +75,7 @@ me = CyberSecurityEngineer()
 
 ## 🌐 Connect with Me
 
-- **LinkedIn:** [Zaara Ziof](https://linkedin.com/in/yourprofile)
+- **LinkedIn:** [Sithum Shihara - ZAARA](www.linkedin.com/in/sithum-shihara-zaara-6a6537330)
 - **Twitter:** [@ZaaraCyber](https://twitter.com/ZaaraCyber)
 - **Blog:** [Cyber Insights by Zaara](https://yourblog.com)
 
