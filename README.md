@@ -29,7 +29,7 @@
 
 ### 📊 Activity Snake:
 
-![GitHub Snake](https://github.com/username/username/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake](https://raw.githubusercontent.com/dev-bittu/dev-bittu/output/snake.svg)
 
 ---
 
