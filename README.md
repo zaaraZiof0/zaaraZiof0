@@ -64,12 +64,12 @@ me = CyberSecurityEngineer()
 - Multi-loop functionalities.
 - Standalone executable.
 
-**Repository:** [View Project](https://github.com/yourusername/surveillance-telegram-bot)
+**Repository:** [View Project](https://github.com/zaaraZiof0/Cam-Hack-Bot-TG)
 
 ### ⚡ **CloudSec Auditor**
 **Description:** Automated cloud security auditing tool for AWS and GCP environments. Detects misconfigurations and generates compliance reports.
 
-**Repository:** [View Project](https://github.com/yourusername/cloudsec-auditor)
+**Repository:** [View Project](https://github.com/zaaraZiof0/Cam-Hack-Bot-TG)
 
 ---
 
@@ -84,13 +84,13 @@ me = CyberSecurityEngineer()
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ZAARA Ziof !&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZAARA Ziof !&theme=radical" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourusername&theme=radical" alt="Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZAARA Ziof !&theme=radical" alt="Profile Summary" />
 </p>
 
 ---
