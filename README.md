@@ -98,7 +98,7 @@ me = CyberSecurityEngineer()
 ## 📊 Activity Snake
 
 <p align="center">
-  <img src="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" alt="Activity Snake" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Activity Snake" />
 </p>
 
 ---
