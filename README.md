@@ -1,52 +1,34 @@
-# Zaara Ziof
+# Ẍ Zaara Ziof Ẍ
 
-![Banner](./path-to-your-uploaded-image1.png)
-
----
-
-### 🚀 DevOps Engineer | 💻 Linux Enthusiast | 🌐 Open-Source Enthusiast
-
-![Profile Image](./path-to-your-uploaded-image2.png)
-
----
-
-### 🛠️ Languages and Tools:
-
-<p align="left">
-  <img src="https://img.icons8.com/fluency/48/000000/docker.png" alt="Docker"/>
-  <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes"/>
-  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS"/>
-  <img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="Jenkins"/>
-  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux"/>
-  <img src="https://img.icons8.com/color/48/000000/bash.png" alt="Bash"/>
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-ansible-an-open-source-software-provisioning-configuration-management-and-application-deployment-tool-logo-color-tal-revivo.png" alt="Ansible"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
-  <img src="https://img.icons8.com/material-outlined/48/000000/github.png" alt="GitHub"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=7A3CE8&center=true&vCenter=true&width=600&lines=Founder+%26+CEO+of+zeroX;Leader+of+Team+PhaZto;Security+Researcher+%26+Red+Team+Engineer;DevOps+%26+Cloud+Security+Specialist;Open+Source+Contributor" alt="Typing Header" />
 </p>
 
 ---
 
-### 📊 Activity Snake:
-
-![GitHub Snake](https://raw.githubusercontent.com/dev-bittu/dev-bittu/output/snake.svg)
-
----
-
-### 📫 Contact:
-
-- **Email:** sithum.shihara@gmail.com
-- **Phone:** +91 9987886552
-- **Instagram:** [zaara_ziof](https://instagram.com/zaara_ziof)
-
----
-
-### 📈 GitHub Stats:
-
-![Zaara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
----
-
-**Enjoy seamless creativity with open-source projects!**
+## 🔮 About Me
+```python
+class CyberSecurityEngineer:
+    def __init__(self):
+        self.name = "Zaara Ziof"
+        self.aliases = ["Ẍer0X", "PhaZtoLead"]
+        self.role = "Security Researcher & DevOps Engineer"
+        self.organizations = {
+            "Founder/CEO": "zeroX Security",
+            "Leader": "Team PhaZto Red Team"
+        }
+        self.skills = {
+            "Offensive Security": ["Pentesting", "Red Teaming", "Exploit Dev"],
+            "Defensive Security": ["Threat Hunting", "SIEM", "EDR Evasion"],
+            "DevOps": ["Kubernetes", "Docker", "GitOps"],
+            "Programming": ["Python", "Go", "Bash", "Rust"]
+        }
+    def current_focus(self):
+        return "Building next-gen security tools & hardening cloud infrastructure"
+    def contact(self):
+        return {
+            "ProtonMail": "zaara@pm.me",
+            "Session": "05a2b4c8f1...",
+            "Threema": "ZAARAID"
+        }
+me = CyberSecurityEngineer()
