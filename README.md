@@ -1,4 +1,3 @@
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3569249" style='border:none;'></iframe>
 
 # Ẍ Zaara Ziof Ẍ 
 
