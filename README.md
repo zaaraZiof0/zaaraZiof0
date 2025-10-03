@@ -1,5 +1,5 @@
 
-# Ẍ Zaara Ziof Ẍ 
+# 👾 Zaara Ziof 👾 
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=7A3CE8&center=true&vCenter=true&width=600&lines=Founder+%26+CEO+of+zeroX;Leader+of+Team+PhaZto;Security+Researcher+%26+Red+Team+Engineer;DevOps+%26+Cloud+Security+Specialist;Open+Source+Contributor" alt="Typing Header" />
