@@ -49,7 +49,7 @@ me = CyberSecurityEngineer()
 
 ## 🚀 Highlights & Achievements
 
-- 🛡️ **Founder & CEO of [zeroX Security](https://yourwebsite.com)**: Delivering cutting-edge security solutions to protect enterprises.
+- 🛡️ **Founder & CEO of [zeroX Security](https://www.zeroxhackers.com)**: Delivering cutting-edge security solutions to protect enterprises.
 - 🔥 **Leader of Team PhaZto**: Red team lead for critical offensive operations and innovation.
 - 🛠️ **Tool Creator**: Developed impactful open-source security tools.
 - 🌐 **Community Contributor**: Actively contribute to open-source security frameworks and utilities.
@@ -77,7 +77,7 @@ me = CyberSecurityEngineer()
 
 - **LinkedIn:** [Sithum Shihara - ZAARA](www.linkedin.com/in/sithum-shihara-zaara-6a6537330)
 - **Twitter:** [@ZaaraCyber](https://twitter.com/ZaaraCyber)
-- **Blog:** [Cyber Insights by Zaara](https://yourblog.com)
+- **Blog:** [Cyber Insights by Zaara]([https://yourblog.com](https://www.zeroxhackers.com))
 
 ---
 
